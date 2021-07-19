@@ -1,4 +1,6 @@
 "5.fifth modify"
 "\n 6.add words"
-Creating a new branch is quick And simple.
-dev branch add new words to firstFile
+Creating a new branch is quick And simple.-----¡·issue-102 branch change 'new' to 'old'
+dev branch add new words to firstFile-----¡·²âÊÔissue·ÖÖ§
+no f-f branch commit
+add new words--->dev branch
