@@ -3,3 +3,4 @@
 Creating a new branch is quick And simple.-----¡·issue-102 branch change 'new' to 'old'
 dev branch add new words to firstFile-----¡·²âÊÔissue·ÖÖ§
 no f-f branch commit
+add new words--->dev branch
